@@ -1,5 +1,5 @@
 local tasks_list = {
-    Values = {"one", "two", "three", "four", "five", "six", "sevenelevem"}
+    Values = globaltasks
 }
 
 return tasks_list
